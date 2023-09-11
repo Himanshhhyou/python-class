@@ -1,4 +1,4 @@
-![armstrong](img/armstrong.png)
+![armstrong](img/armstrong.webp)
 An Armstrong number (also known as a narcissistic number, plenary number, or a plus perfect digital invariant) is a special kind of number in mathematics.<br>
 In the case of an n digit number, it is an integer such that the sum of its own digits, each raised to the power of (n), is equal to the number itself.<br><br>
 More formally, let's say we have an (n)-digit number (abcd...z). The sum of the (n)-th powers of its digits is:<br>
