@@ -1,3 +1,3 @@
 # Python Programs
 
-##[Armstrong Number](armstrong/armstrong.md)
+## [Armstrong Number](armstrong/armstrong.md)
