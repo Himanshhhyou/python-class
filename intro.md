@@ -1,4 +1,5 @@
-# Introduction to programming
+# What is Programming
+![programming.png](images/programming.png)
 ## Table of contents
 - [The Basic Model of Computation](#The-basic-model-of-computation)
 - [Programming Languages](#programming-languages)
