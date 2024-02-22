@@ -22,7 +22,7 @@ Step 5 : Stop
 
 ### Factorial
 The factorial of a non-negative integer, often denoted by the symbol "!", is the product of all positive integers less than or equal to that integer. For example, the factorial of 5 (written as 5!) is calculated as:
-5!=5×4×3×2×1=120
+> 5!=5×4×3×2×1=120
 
 ```
 Step 1 : Start
