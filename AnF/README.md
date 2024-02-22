@@ -17,7 +17,7 @@ Step 5 : Stop
 ![](images/flowchart.png)
 
 ### Factorial Calculation
-```
+
 Step 1 : Start
 Step 2 : Read num and declare fact = 1
 Step 3 : is num > 0, if yes then go to next step otherwise go to step 6
