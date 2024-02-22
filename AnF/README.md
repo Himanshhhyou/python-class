@@ -35,3 +35,20 @@ Step 7 : Stop
 ```
 
 ![](images/fact.png)
+
+
+### Reversing a number
+```
+Step 1 : Start
+Step 2 : Read num and declare reverse = ""
+Step 3 : is num > 0, if yes then go to next step otherwise go to step 7
+Step 4 : remainder = num % 10
+Step 5 : reverse = reverse + remainder
+Step 6 : num = num // 10 and go to step 3
+Step 7 : print reverse
+Step 8 : Stop
+```
+> Remember that, In step 5 you have to use typecasting to convert remainder into string before concatenation with reverse
+
+
+![](images/reverse.png)
