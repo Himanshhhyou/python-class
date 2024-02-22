@@ -6,6 +6,7 @@ A flowchart is a visual representation of an algorithm, using different shapes t
 ## Table of content
 1. [Sum of two numbers](#sum-of-two-numbers)
 2. [Factorial](Factorial)
+3. [Reverse a number](#reverse-a-number)
 
    <hr>
 
@@ -37,7 +38,7 @@ Step 7 : Stop
 ![](images/fact.png)
 
 
-### Reversing a number
+### Reverse a number
 ```
 Step 1 : Start
 Step 2 : Read num and declare reverse = ""
