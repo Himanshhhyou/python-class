@@ -1,7 +1,9 @@
-# Algorithm & Flowchart of
+# Algorithm & Flowchart
 
 ## Table of content
 1. [Sum of two numbers](#sum-of-two-numbers)
+
+   <hr>
 
 ###  Sum of two numbers
 ```
