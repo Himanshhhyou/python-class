@@ -1,6 +1,6 @@
 # Python
 ### [Introduction to programming](intro.md)
-![](AnF/images/cover.png)
+
 
 
 
