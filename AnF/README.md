@@ -1,8 +1,8 @@
 # Algorithm & Flowchart
 
 ## Table of content
- [1. Sum of two numbers](#sum-of-two-numbers)
-2. [Factorial's algorithm & flowchart](Factorial's-algorithm-&-flowchart)
+1. [Sum of two numbers](#sum-of-two-numbers)
+2. [Factorial](Factorial)
 
    <hr>
 
@@ -17,7 +17,7 @@ Step 5 : Stop
 ```
 ![](images/flowchart.png)
 
-### Factorial's algorithm & flowchart
+### Factorial
 ```
 Step 1 : Start
 Step 2 : Read num and declare fact = 1
