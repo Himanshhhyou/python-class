@@ -1,8 +1,9 @@
-# Algorithm & Flowchart of Sum of two numbers
+# Algorithm & Flowchart of
 
 ## Table of content
-1. Sum of two numbers
+1. [Sum of two numbers](#sum-of-two-numbers)
 
+###  Sum of two numbers
 ```
 Step 1 : Start
 Step 2 : Read num1 and num2
