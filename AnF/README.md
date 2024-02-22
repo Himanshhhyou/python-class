@@ -1,4 +1,5 @@
 # Algorithm & Flowchart
+![](images/cover.png)
 An algorithm is a step-by-step procedure or set of rules designed to perform a specific task or solve a particular problem. It serves as a blueprint for solving problems and is often expressed in pseudocode or a programming language. Algorithms are essential in computer science, guiding the execution of tasks efficiently.
 
 A flowchart is a visual representation of an algorithm, using different shapes to denote various actions, decisions, or inputs. It provides a graphical overview of the algorithm's logic and helps in understanding the flow of control.
