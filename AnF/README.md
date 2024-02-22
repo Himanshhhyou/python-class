@@ -8,4 +8,4 @@ Step 3 : Add num1 and num2 and assign in result
 Step 4 : print result
 Step 5 : Stop
 ```
-![](flowchart.png)
+![](images/flowchart.png)
