@@ -1,7 +1,7 @@
 # Algorithm & Flowchart
 
 ## Table of content
-1. [Sum of two numbers](#sum-of-two-numbers)
+ [1. Sum of two numbers](#sum-of-two-numbers)
 2. [Factorial's algorithm & flowchart](Factorial's-algorithm-&-flowchart)
 
    <hr>
