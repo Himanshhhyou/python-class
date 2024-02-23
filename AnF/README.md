@@ -57,7 +57,7 @@ Step 7 : num = num // 10 and go to step 4
 Step 8 : print reverse
 Step 9 : Stop
 ```
-> Remember that, In step 6 you have to use typecasting to convert remainder into string before concatenation with reverse
+> Remember that, In step 6 you have to use typecasting to convert lastDigit into string before concatenation with reverse
 
 
 ![](images/reverse.png)
