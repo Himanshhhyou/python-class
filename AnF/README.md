@@ -8,6 +8,7 @@ A flowchart is a visual representation of an algorithm, using different shapes t
 1. [Sum of two numbers](#sum-of-two-numbers)
 2. [Factorial](#Factorial)
 3. [Reverse a number](#reverse-a-number)
+4. [Armstrong number](#armstrong-number-for-3-digit-armstrong-number)
 
    <hr>
 
@@ -64,7 +65,7 @@ To check if a number is an Armstrong number, you can follow these steps:
 
 - Count the number of digits in the number. Let this be n.
 - For each digit in the number, raise it to the power of n and add it to a sum - variable.
-- Compare the sum variable with the original number. If they are equal, the number is an Armstrong number. Otherwise, it is not.
+- Compare the sum variable with the original number. If they are equal, the number is an Armstrong number. Otherwise, it is not.<br>
 [Click here to see python code](../programs/armstrong.py)
 
 ```
