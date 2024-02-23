@@ -65,6 +65,7 @@ To check if a number is an Armstrong number, you can follow these steps:
 - Count the number of digits in the number. Let this be n.
 - For each digit in the number, raise it to the power of n and add it to a sum - variable.
 - Compare the sum variable with the original number. If they are equal, the number is an Armstrong number. Otherwise, it is not.
+[Click here to see python code](../programs/armstrong.py)
 
 ```
 Step 1 : Start
