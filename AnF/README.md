@@ -21,11 +21,13 @@ Step 3 : Add num1 and num2 and assign in result
 Step 4 : print result
 Step 5 : Stop
 ```
-![](images/flowchart.png)
+![](images/sum.png)
 
 ### Factorial
 The factorial of a non-negative integer, often denoted by the symbol "!", is the product of all positive integers less than or equal to that integer. For example, the factorial of 5 (written as 5!) is calculated as:
 > 5!=5×4×3×2×1=120
+
+[Click here to see python code](../programs/factorial.py)
 
 ```
 Step 1 : Start
@@ -42,6 +44,8 @@ Step 8 : Stop
 
 
 ### Reverse a number
+[Click here to see python code](../programs/reverse.py)
+
 ```
 Step 1 : Start
 Step 2 : Read num
