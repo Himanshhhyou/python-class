@@ -58,6 +58,13 @@ Step 9 : Stop
 ![](images/reverse.png)
 
 ### Armstrong number (for 3 digit armstrong number)
+An Armstrong number is a number that is equal to the sum of its digits raised to the power of the number of digits. For example, 153 is an Armstrong number because 1<sup>3</sup> + 5<sup>3</sup> + 3<sup>3</sup> = 153
+
+To check if a number is an Armstrong number, you can follow these steps:
+
+- Count the number of digits in the number. Let this be n.
+- For each digit in the number, raise it to the power of n and add it to a sum - variable.
+- Compare the sum variable with the original number. If they are equal, the number is an Armstrong number. Otherwise, it is not.
 
 ```
 Step 1 : Start
