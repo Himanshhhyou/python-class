@@ -28,12 +28,13 @@ The factorial of a non-negative integer, often denoted by the symbol "!", is the
 
 ```
 Step 1 : Start
-Step 2 : Read num and declare fact = 1
-Step 3 : is num > 0, if yes then go to next step otherwise go to step 6
-Step 4 : fact = fact * num
-Step 5 : num = num -1 and go to step 3
-Step 6 : print fact
-Step 7 : Stop
+Step 2 : Read num
+Step 3 : Declare temp = 1 
+Step 4 : is num > 0, if yes then go to next step otherwise go to step 7
+Step 5 : fact = fact * num
+Step 6 : num = num -1 and go to step 3
+Step 7 : print fact
+Step 8 : Stop
 ```
 
 ![](images/fact.png)
@@ -42,15 +43,36 @@ Step 7 : Stop
 ### Reverse a number
 ```
 Step 1 : Start
-Step 2 : Read num and declare reverse = ""
-Step 3 : is num > 0, if yes then go to next step otherwise go to step 7
-Step 4 : remainder = num % 10
-Step 5 : reverse = reverse + remainder
-Step 6 : num = num // 10 and go to step 3
-Step 7 : print reverse
-Step 8 : Stop
+Step 2 : Read num
+Step 3 : Declare reverse = ""
+Step 4 : is num > 0, if yes then go to next step otherwise go to step 8
+Step 5 : lastDigit = num % 10
+Step 6 : reverse = reverse + lastDigit
+Step 7 : num = num // 10 and go to step 4
+Step 8 : print reverse
+Step 9 : Stop
 ```
-> Remember that, In step 5 you have to use typecasting to convert remainder into string before concatenation with reverse
+> Remember that, In step 6 you have to use typecasting to convert remainder into string before concatenation with reverse
 
 
 ![](images/reverse.png)
+
+### Armstrong number (for 3 digit armstrong number)
+
+```
+Step 1 : Start
+Step 2 : Read num
+Step 3 : Declare total = 0 and temp = num
+Step 4 : is temp > 0, if yes then go to next step otherwise go to step 8
+Step 5 : lastDigit = num % 10
+Step 6 : total = total + (lastDigit**3)
+Step 7 : num = num // 10 and go to step 4
+Step 8 : is num == total, if yes then go to step 9 otherwise go to step 10
+Step 9 : print "Given number is an armstrong number" and go to step 11
+Step 10 : print "Given number is not an armstrong number" and go to step 11
+Step 11 : Stop
+```
+> Remember that this algorithm and flowchart is only for 3 digit armstrong number
+
+![](images/armstrong.png)
+
