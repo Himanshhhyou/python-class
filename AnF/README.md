@@ -79,7 +79,7 @@ Step 3 : Declare total = 0 and temp = num
 Step 4 : is temp > 0, if yes then go to next step otherwise go to step 8
 Step 5 : lastDigit = num % 10
 Step 6 : total = total + (lastDigit**3)
-Step 7 : num = num // 10 and go to step 4
+Step 7 : temp = temp // 10 and go to step 4
 Step 8 : is num == total, if yes then go to step 9 otherwise go to step 10
 Step 9 : print "Given number is an armstrong number" and go to step 11
 Step 10 : print "Given number is not an armstrong number" and go to step 11
