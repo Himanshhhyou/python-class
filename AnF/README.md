@@ -89,3 +89,19 @@ Step 11 : Stop
 
 ![](images/armstrong.png)
 
+### Prime number check
+A prime number (or simply a prime) is a natural number greater than 1 that has no positive integer divisors other than 1 and itself. In other words, it cannot be written as the product of two smaller natural numbers. For example, 5 is a prime number because the only ways of expressing it as a product (1 × 5 or 5 × 1) involve the number 5 itself.
+[Click here to see python code](../programs/prime.py)
+
+```
+Step 1 : Start
+Step 2 : Read num
+Step 3 : Declare i = 2
+Step 4 : is i < num, if yes then go to next step otherwise go to step 8
+Step 5 : is num % i ==0, if yes then go to step 7 otherwise go to next step
+Step 6 : i = i + 1 and go to step 4
+Step 7 : print "Not prime"
+Step 8 : print "yes prime"
+Step 9 : Stop
+```
+![](images/prime.png)
