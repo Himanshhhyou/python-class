@@ -9,6 +9,7 @@ A flowchart is a visual representation of an algorithm, using different shapes t
 2. [Factorial](#Factorial)
 3. [Reverse a number](#reverse-a-number)
 4. [Armstrong number](#armstrong-number-for-3-digit-armstrong-number)
+5. [Prime number](#prime-number-check)
 
    <hr>
 
