@@ -11,3 +11,4 @@
 ### Iterative based
 - [Prime number](programs/prime.md)
 - [GCD or HCF](programs/gcd.md)
+- [Factorial](programs/factorial.md)
