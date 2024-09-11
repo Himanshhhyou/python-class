@@ -1,8 +1,9 @@
-# Python
-### [Introduction to programming](intro.md)
-### [Algorithm and Flowcharts](AnF/README.md)
-
 # Python Programs
 
-## [Armstrong Number](armstrong/armstrong.md)
-## [Prime Number Check](prime/prime.md)
+### Sequential based
+- [Average](programs/average.md)
+- [Simple Interest](programs/simpleInterest.md)
+
+### Decision based
+- [Odd Even](programs/oddEven.md)
+- [Greater number](programs/greaterNum.md)
